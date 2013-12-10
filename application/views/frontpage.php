@@ -1,7 +1,27 @@
-<div class="container">
-   <div class="jumbotron">
-      <h2>CodeIgniter Bootstrap</h2>
-      <p>CodeIgniter Bootstrap kick starts the development process of the web development process by including Twitter Bootstrap into CodeIgniter. It also includes certain libraries such as AWS and Facebook in-case you are developing applications requiring those SDKs. So stop writing the same code over again and start working on your idea.</p>
-      <a class="btn btn-primary btn-large" href="https://github.com/sjlu/CodeIgniter-Bootstrap">View on Github</a>
-   </div>
+<div class="navbar navbar-fixed-top">
+	<div class="navbar-inner">
+		<div class="container">
+			:before
+			<a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			</a>
+			<a class="pull-left" href="/">
+				<img class="persly-logo" src="/img/something.png" style="">
+			</a>
+			<div class="nav-collapse">
+				<ul class="nav pull-right">
+					<li class="active">
+						<a href="/">Home</a>
+					</li>
+					<li class="active">
+						<a href="/">SignUp</a>
+					</li>
+				</ul>
+			</div>
+			:after
+		</div>
+	</div>
 </div>
+				
