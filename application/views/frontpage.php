@@ -1,25 +1,13 @@
-<div class="navbar navbar-fixed-top">
-	<div class="navbar-inner">
-		<div class="container">
-			<a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
-				<span class="icon-bar"></span>
-				<span class="icon-bar"></span>
-				<span class="icon-bar"></span>
-			</a>
-			<a class="pull-left" href="/">
-				<img class="persly-logo" src="/img/something.png" style="">
-			</a>
-			<div class="nav-collapse">
-				<ul class="nav pull-right">
-					<li class="active">
-						<a href="/">Home</a>
-					</li>
-					<li class="active">
-						<a href="/">SignUp</a>
-					</li>
-				</ul>
-			</div>
-		</div>
-	</div>
-</div>
+<nav class="navbar navbar-default" role="navigation">
+  <!-- Brand and toggle get grouped for better mobile display -->
+  <div class="navbar-header">
+    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+      <span class="sr-only">Toggle navigation</span>
+      <span class="icon-bar"></span>
+      <span class="icon-bar"></span>
+      <span class="icon-bar"></span>
+    </button>
+    <a class="navbar-brand" href="#">Brand</a>
+  </div>
+</nav>
 				
